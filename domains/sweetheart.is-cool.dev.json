@@ -8,8 +8,7 @@
     },
 
     "record": {
-        "CNAME": "276536.site.bot-hosting.net",
-        "TXT": ["bh-server=276536"]
+        "A": ["76.76.21.21"]
         
     },
 
