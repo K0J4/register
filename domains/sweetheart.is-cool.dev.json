@@ -1,0 +1,17 @@
+{
+    "description": "Sweetheart Ai Bot",
+    "domain": "is-cool.dev",
+    "subdomain": "sweetheart",
+
+    "owner": {
+        "email": "alijuttxd@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "276536.site.bot-hosting.net",
+        "TXT": ["bh-server=276536"]
+        
+    },
+
+    "proxied": true
+}
